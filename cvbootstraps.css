@@ -1,0 +1,72 @@
+.photoidentite
+{
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+    margin: 5px;
+}
+.adresse_et_numero_de_tel
+{
+    text-align:right;
+    font-size: 20px;
+}
+.entete
+{
+    background-color: black;
+    color: white;
+}
+.mail
+{
+    color: yellowgreen;
+}
+.listeinfospersos
+{
+    padding-top: 20px;
+    list-style-type: none;
+
+}
+.diplomes
+{
+    background-color: #83A697;
+}
+.experience
+{
+    background-color: #BBAE98;
+}
+.loisirs
+{
+    background-color: #C7D0CC;
+}
+.row-eq-height 
+{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.competences
+{
+    background-color: #DFD188;
+ }
+
+.progress
+{
+    padding: 0;
+}
+
+h5{
+    
+    text-align: center;
+}
+
+.machin{
+    
+    width : 80px;
+    
+   
+}
+
+.machin2{
+    
+    height : 200px;
+}
